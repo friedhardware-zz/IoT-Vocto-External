@@ -1,2 +1,2 @@
-IoT-Vocto-Extrernal
+IoT-Vocto-External
 ===================
